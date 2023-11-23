@@ -1,0 +1,6 @@
+nav{/* El fondo de la página web de los audios será de color azul agua, estará todo centrado, la tipografía será "monospace" y estará en "oblicuo"*/
+    background-color: aqua;
+    text-align: center;
+    font-family: monospace;
+    font-style: oblique;
+}

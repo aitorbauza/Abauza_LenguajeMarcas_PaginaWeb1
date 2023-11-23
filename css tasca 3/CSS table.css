@@ -1,0 +1,10 @@
+nav{ /*El fondo del nav de la página web de la tabla, será de color "teal", este nav tendrá una longitud de 250px, la tipografía del contenido de la tabla es "Trebuchet MS" */
+    background: teal;
+    min-height: 250px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{ /*Con esto, la tabla estará centrada*/
+    display: flex;
+    justify-content: center;
+
+}
